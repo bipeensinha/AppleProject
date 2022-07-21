@@ -1,1 +1,2 @@
-This is developed by dev1 for demo of customer module
+ dev1 ha completed customer module for demo
+ # Dev1 please take care for future
